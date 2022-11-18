@@ -1,5 +1,6 @@
 ---
 layout: '../layouts/MarkdownWrapper.astro'
+title: jojobii's links 🔗
 ---
 
 # 🏠
