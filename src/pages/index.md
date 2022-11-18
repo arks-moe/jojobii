@@ -35,4 +35,4 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 
 - [email: jojobii.arks@gmail.com](jojobii.arks@gmail.com)
 - [soundcloud: @jojobii](https://soundcloud.com/jojobii)
-- [soundcloud: @jojobeeee](https://soundcloud.com/jojobeeee)
+- [soundcloud (alt): @jojobeeee](https://soundcloud.com/jojobeeee)
