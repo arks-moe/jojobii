@@ -21,6 +21,12 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 
 ---
 
+## Dev
+
+- [**⭐️ github: @jojobii-arks**](https://github.com/jojobii-arks)
+
+---
+
 ## Fedi
 
 - [**⭐️ @jojobii@mk.arks.cafe**](https://mk.arks.cafe/@jojobii)
