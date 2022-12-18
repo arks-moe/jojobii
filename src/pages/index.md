@@ -1,11 +1,11 @@
 ---
-layout: '../layouts/MarkdownWrapper.astro'
+layout: "../layouts/MarkdownWrapper.astro"
 title: jojobii's links 🔗
 ---
 
 # 🏠
 
-## jojobii here. 
+## jojobii here.
 
 just a collection of links of where to find me and all that jazz
 
@@ -13,21 +13,21 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 
 ---
 
-## SNS
+## Primary Outlets
 
-- [**⭐️ twitter: @jojobii_**](https://twitter.com/jojobii_)
-- [tumblr: @jojobii-arks](https://tumblr.com/jojobii-arks)
-- [cohost: @jojobii](https://cohost.org/jojobii)
+- [**⭐️ github: @jojobii-arks**](https://github.com/jojobii-arks)
+- [**⭐️ fedi: @jojobii@mk.arks.cafe**](https://mk.arks.cafe/@jojobii)
+- [**⭐ discord: @jojobii#5656**](https://discordapp.com/users/92471478049583104)
 
 ---
 
-## Dev
+## Full List
+
+### Dev
 
 - [**⭐️ github: @jojobii-arks**](https://github.com/jojobii-arks)
 
----
-
-## Fedi
+### Fedi
 
 - [**⭐️ @jojobii@mk.arks.cafe**](https://mk.arks.cafe/@jojobii)
 - [@jojobii@wetdry.world](https://wetdry.world/@jojobii)
@@ -35,9 +35,13 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 - [@jojobii@misskey.io](https://misskey.io/@jojobii)
 - [@jojobii@miruku.cafe](https://misskey.io/@jojobii)
 
----
+### SNS
 
-## etc
+- [**⭐️ twitter: @jojobii\_**](https://twitter.com/jojobii_)
+- [tumblr: @jojobii-arks](https://tumblr.com/jojobii-arks)
+- [cohost: @jojobii](https://cohost.org/jojobii)
+
+### etc
 
 - [email: jojobii.arks@gmail.com](jojobii.arks@gmail.com)
 - [soundcloud: @jojobii](https://soundcloud.com/jojobii)
