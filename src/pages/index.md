@@ -15,8 +15,10 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 
 ## Primary Outlets
 
-- [**⭐️ github: @jojobii-arks**](https://github.com/jojobii-arks)
 - [**⭐️ fedi: @jojobii@mk.arks.cafe**](https://mk.arks.cafe/@jojobii)
+- [**⭐️ twitter: @jojobii\_**](https://twitter.com/jojobii_)
+- [**⭐️ soundcloud: @jojobii**](https://soundcloud.com/jojobii)
+- [**⭐️ github: @jojobii-arks**](https://github.com/jojobii-arks)
 - [**⭐ discord: @jojobii#5656**](https://discordapp.com/users/92471478049583104)
 
 ---
@@ -44,5 +46,4 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 ### etc
 
 - [email: jojobii.arks@gmail.com](jojobii.arks@gmail.com)
-- [soundcloud: @jojobii](https://soundcloud.com/jojobii)
 - [soundcloud (alt): @jojobeeee](https://soundcloud.com/jojobeeee)
