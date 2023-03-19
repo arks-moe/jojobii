@@ -43,6 +43,11 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 - [tumblr: @jojobii-arks](https://tumblr.com/jojobii-arks)
 - [cohost: @jojobii](https://cohost.org/jojobii)
 
+### Tunes
+
+- [**⭐️ soundcloud: @jojobii**](https://soundcloud.com/jojobii)
+- [** spotify: jojobii**](https://open.spotify.com/artist/7AceGacY9eupr9q5MIoR8L)
+
 ### etc
 
 - [email: jojobii.arks@gmail.com](jojobii.arks@gmail.com)
