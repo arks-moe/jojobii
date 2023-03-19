@@ -46,7 +46,7 @@ any socials with ⭐️ indicate me actively participating on that platform. all
 ### Tunes
 
 - [**⭐️ soundcloud: @jojobii**](https://soundcloud.com/jojobii)
-- [** spotify: jojobii**](https://open.spotify.com/artist/7AceGacY9eupr9q5MIoR8L)
+- [spotify: jojobii](https://open.spotify.com/artist/7AceGacY9eupr9q5MIoR8L)
 
 ### etc
 
